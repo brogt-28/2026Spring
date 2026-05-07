@@ -1,0 +1,575 @@
+country,continent,year,life_expectancy,population,gdp_per_capita,iso_alpha
+AFGHANISTAN,asia,1992,41.674,"16,317,921",$649.34,AFG
+Afghanistan,Asia,1997,41.76300000000001,"22,227,415",$635.34,AFG
+Afghanistan,Asia,2002,42.129,"25,268,405",$726.73,AFG
+Afghanistan,Asia,2007,43.828,"31,889,923",$974.58,AFG
+Albania,Europe,1992,71.581,"3,326,498","$2,497.44",ALB
+Albania,Europe,1997,72.95,"3,428,038","$3,193.05",ALB
+Albania,Europe,2002,75.65100000000002,"3,508,512","$4,604.21",ALB
+Albania,Europe,2007,76.423,"3,600,523","$5,937.03",ALB
+Algeria,Africa,1992,67.744,"26,298,373","$5,023.22",DZA
+Algeria,Africa,1997,69.152,"29,072,015","$4,797.30",DZA
+Algeria,Africa,2002,70.994,"31,287,142","$5,288.04",DZA
+Algeria,Africa,2007,72.301,"33,333,216","$6,223.37",DZA
+Angola,Africa,1992,40.647,"8,735,988","$2,627.85",AGO
+Angola,Africa,1997,40.963,"9,875,024","$2,277.14",AGO
+Angola,Africa,2002,41.003,"10,866,106","$2,773.29",AGO
+Angola,Africa,2007,42.731,"12,420,476","$4,797.23",AGO
+Argentina,Americas,1992,71.868,"33,958,947","$9,308.42",ARG
+Argentina,Americas,1997,73.275,"36,203,463","$10,967.28",ARG
+Argentina,Americas,2002,74.34,"38,331,121","$8,797.64",ARG
+Argentina,Americas,2007,75.32,"40,301,927","$12,779.38",ARG
+Australia,Oceania,1992,77.56,"17,481,977","$23,424.77",AUS
+Australia,Oceania,1997,78.83,"18,565,243","$26,997.94",AUS
+Australia,Oceania,2002,80.37,"19,546,792","$30,687.75",AUS
+Australia,Oceania,2007,81.235,"20,434,176","$34,435.37",AUS
+Austria,Europe,1992,76.04,"7,914,969","$27,042.02",AUT
+Austria,Europe,1997,77.51,"8,069,876","$29,095.92",AUT
+Austria,Europe,2002,78.98,"8,148,312","$32,417.61",AUT
+Austria,Europe,2007,79.829,"8,199,783","$36,126.49",AUT
+Bahrain,Asia,1992,72.601,"529,491","$19,035.58",BHR
+Bahrain,Asia,1997,73.925,"598,561","$20,292.02",BHR
+Bahrain,Asia,2002,74.795,"656,397","$23,403.56",BHR
+Bahrain,Asia,2007,75.635,"708,573","$29,796.05",BHR
+Bangladesh,Asia,1992,56.018,"113,704,579",$837.81,BGD
+Bangladesh,Asia,1997,59.412,"123,315,288",$972.77,BGD
+Bangladesh,Asia,2002,62.01300000000001,"135,656,790","$1,136.39",BGD
+Bangladesh,Asia,2007,64.062,"150,448,339","$1,391.25",BGD
+Belgium,Europe,1992,76.46,"10,045,622","$25,575.57",BEL
+Belgium,Europe,1997,77.53,"10,199,787","$27,561.20",BEL
+Belgium,Europe,2002,78.32,"10,311,970","$30,485.88",BEL
+Belgium,Europe,2007,79.441,"10,392,226","$33,692.61",BEL
+Benin,Africa,1992,53.919,"4,981,671","$1,191.21",BEN
+Benin,africa,1997,54.777,"6,066,080","$1,232.98",BEN
+Benin,Africa,2002,54.40600000000001,"7,026,113","$1,372.88",BEN
+Benin,Africa ,2007,56.728,"8,078,314","$1,441.28",BEN
+Bolivia,Americas,1992,59.957,"6,893,451","$2,961.70",BOL
+Bolivia,Americas,1997,62.05,"7,693,188","$3,326.14",BOL
+Bolivia,Americas,2002,63.883,"8,445,134","$3,413.26",BOL
+BOLIVIA,Americas,2007,65.554,"9,119,152","$3,822.14",BOL
+Bosnia and Herzegovina,Europe,1992,,"4,256,013","$2,546.78",BIH
+Bosnia and Herzegovina,Europe,1997,73.244,"3,607,000","$4,766.36",BIH
+Bosnia and Herzegovina,Europe,2002,74.09,"4,165,416","$6,018.98",BIH
+Bosnia and Herzegovina,Europe,2007,74.852,"4,552,198","$7,446.30",BIH
+Botswana,Africa,1992,62.745,"1,342,614","$7,954.11",BWA
+ Botswana,Africa,1997,52.556,"1,536,536","$8,647.14",BWA
+Botswana,Africa,2002,46.63399999999999,"1,630,347","$11,003.61",BWA
+Botswana,Africa,2007,50.728,"1,639,131","$12,569.85",BWA
+Brazil,Americas,1992,67.057,"155,975,974","$6,950.28",BRA
+Brazil,Americas,1997,69.388,"168,546,719","$7,957.98",BRA
+Brazil,Americas,2002,71.006,"179,914,212","$8,131.21",BRA
+Brazil ,Americas,2007,72.39,"190,010,647","$9,065.80",BRA
+Bulgaria,Europe,1992,71.19,"8,658,506","$6,302.62",BGR
+Bulgaria,Europe,1997,70.32,"8,066,057","$5,970.39",BGR
+Bulgaria,Europe,2002,72.14,"7,661,799","$7,696.78",BGR
+Bulgaria,Europe,2007,73.005,"7,322,858","$10,680.79",BGR
+Burkina Faso,Africa,1992,50.26,"8,878,303",$931.75,BFA
+Burkina Faso,Africa,1997,50.324,"10,352,843",$946.29,BFA
+Burkina Faso,Africa,2002,50.65,"12,251,209","$1,037.65",BFA
+Burkina Faso,Africa,2007,52.295,"14,326,203","$1,217.03",BFA
+Burundi,Africa,1992,44.736,"5,809,236",$631.70,BDI
+Burundi,Africa,1997,45.326,"6,121,610",$463.12,BDI
+Burundi,Africa,2002,47.36,"7,021,078",$446.40,BDI
+Burundi,Africa,2007,49.58,"8,390,505",$430.07,BDI
+Cambodia,Asia,1992,55.803,"10,150,094",$682.30,KHM
+Cambodia,Asia,1997,56.534,"11,782,962",$734.29,KHM
+Cambodia,Asia,2002,56.752,"12,926,707",$896.23,KHM
+Cambodia,Asia,2007,59.723,"14,131,858","$1,713.78",KHM
+Cameroon,Africa,1992,54.31399999999999,"12,467,171","$1,793.16",CMR
+Cameroon,Africa,1997,52.199,"14,195,809","$1,694.34",CMR
+Cameroon,Africa,2002,49.856,"15,929,988","$1,934.01",CMR
+Cameroon,Africa,2007,50.43,"17,696,293","$2,042.10",CMR
+Canada,Americas,1992,77.95,"28,523,502","$26,342.88",CAN
+Canada,Americas,1997,78.61,"30,305,843","$28,954.93",CAN
+Canada,americas,2002,79.77,"31,902,268","$33,328.97",CAN
+Canada,Americas,2007,80.653,"33,390,141","$36,319.24",CAN
+Central African Republic,Africa,1992,49.396,"3,265,124",$747.91,CAF
+Central African Republic,Africa,1997,46.066,"3,696,513",$740.51,CAF
+Central African Republic,Africa ,2002,43.308,"4,048,013",$738.69,CAF
+Central African Republic,Africa,2007,44.74100000000001,"4,369,038",$706.02,CAF
+Chad,Africa,1992,51.724,"6,429,417","$1,058.06",TCD
+Chad,Africa,1997,51.573,"7,562,011","$1,004.96",TCD
+Chad,Africa,2002,50.525,unknown,"$1,156.18",TCD
+Chad,Africa,2007,50.651,"10,238,807","$1,704.06",TCD
+Chile,Americas,1992,74.126,"13,572,994","$7,596.13",CHL
+Chile,Americas,1997,75.816,"14,599,929","$10,118.05",CHL
+CHILE,Americas,2002,77.86,"15,497,046","$10,778.78",CHL
+Chile,Americas,2007,78.553,"16,284,741","$13,171.64",CHL
+China,Asia,1992,68.69,"1,164,970,000","$1,655.78",CHN
+China,Asia,1997,70.426,"1,230,075,000","$2,289.23",CHN
+China,Asia,2002,72.028,"1,280,400,000","$3,119.28",CHN
+China,Asia,2007,72.961,"1,318,683,096","$4,959.11",CHN
+Colombia,Americas,1992,68.421,"34,202,721","$5,444.65",COL
+Colombia,Americas,1997,70.313,"37,657,830","$6,117.36",COL
+Colombia,Americas,2002,71.682,"41,008,227","$5,755.26",COL
+Colombia,Americas,2007,72.889,"44,227,550","$7,006.58",COL
+Comoros,Africa,1992,57.93899999999999,"454,429","$1,246.91",COM
+Comoros,Africa,1997,60.66,"527,982","$1,173.62",COM
+ Comoros,Africa,2002,62.974,"614,382","$1,075.81",COM
+Comoros,Africa,2007,65.152,"710,960",$986.15,COM
+Congo Dem. Rep.,Africa,1992,45.548,"41,672,143",not available,COD
+Congo Dem. Rep.,Africa,1997,42.587,"47,798,986",not available,COD
+Congo Dem. Rep.,Africa,2002,44.966,"55,379,852",$241.17,COD
+Congo Dem. Rep.,Africa,2007,46.462,"64,606,759",$277.55,COD
+Congo Rep.,Africa,1992,56.433,"2,409,073","$4,016.24",COG
+Congo Rep.,Africa,1997,52.962,"2,800,947","$3,484.16",COG
+Congo Rep.,Africa,2002,52.97,"3,328,795","$3,484.06",COG
+Congo Rep.,Africa,2007,55.322,"3,800,610","$3,632.56",COG
+Costa Rica,Americas,1992,75.71300000000002,"3,173,216","$6,160.42",CRI
+Costa Rica,Americas,1997,77.26,"3,518,107","$6,677.05",CRI
+Costa Rica ,Americas,2002,78.123,"3,834,934","$7,723.45",CRI
+Costa Rica,Americas,2007,78.782,"4,133,884","$9,645.06",CRI
+Cote dIvoire,Africa,1992,52.044,"12,772,596","$1,648.07",CIV
+Cote dIvoire,Africa,1997,47.99100000000001,"14,625,967","$1,786.27",CIV
+Cote dIvoire,Africa,2002,46.832,"16,252,726","$1,648.80",CIV
+Cote dIvoire,africa,2007,48.328,"18,013,409","$1,544.75",CIV
+Croatia,Europe,1992,72.527,"4,494,013","$8,447.79",HRV
+Croatia,Europe,1997,73.68,"4,444,595","$9,875.60",HRV
+Croatia,Europe,2002,74.876,"4,481,020","$11,628.39",HRV
+Croatia,Europe,2007,75.748,"4,493,312","$14,619.22",HRV
+Cuba,Americas,1992,74.414,"10,723,260","$5,592.84",CUB
+Cuba,Americas ,1997,76.15100000000002,"10,983,007","$5,431.99",CUB
+Cuba,Americas,2002,77.158,"11,226,999","$6,340.65",CUB
+Cuba,Americas,2007,78.273,"11,416,987","$8,948.10",CUB
+Czech Republic,Europe,1992,72.4,unknown,"$14,297.02",CZE
+Czech Republic,Europe,1997,74.01,"10,300,707","$16,048.51",CZE
+Czech Republic,Europe,2002,75.51,"10,256,295","$17,596.21",CZE
+Czech Republic,Europe,2007,76.486,"10,228,744","$22,833.31",CZE
+Denmark,Europe,1992,75.33,"5,171,393","$26,406.74",DNK
+Denmark,Europe,1997,76.11,"5,283,663","$29,804.35",DNK
+Denmark,Europe,2002,77.18,"5,374,693","$32,166.50",DNK
+Denmark,Europe,2007,78.332,"5,468,120","$35,278.42",DNK
+Djibouti,Africa,1992,51.604,"384,156","$2,377.16",DJI
+DJIBOUTI,Africa,1997,53.157,"417,908","$1,895.02",DJI
+Djibouti,Africa,2002,53.37300000000001,"447,416","$1,908.26",DJI
+Djibouti,Africa,2007,54.791,"496,374","$2,082.48",DJI
+Dominican Republic,Americas,1992,68.457,"7,351,181","$3,044.21",DOM
+Dominican Republic,Americas,1997,69.957,"7,992,357","$3,614.10",DOM
+Dominican Republic,Americas,2002,70.847,"8,650,322","$4,563.81",DOM
+Dominican Republic,Americas,2007,72.235,"9,319,622","$6,025.37",DOM
+Ecuador,Americas,1992,69.613,"10,748,394","$7,103.70",ECU
+Ecuador,Americas,1997,72.312,"11,911,819","$7,429.46",ECU
+Ecuador,Americas,2002,74.173,"12,921,234","$5,773.04",ECU
+Ecuador,Americas,2007,74.994,"13,755,680","$6,873.26",ECU
+Egypt,Africa,1992,63.674,"59,402,198","$3,794.76",EGY
+Egypt,Africa,1997,67.217,"66,134,291","$4,173.18",EGY
+Egypt,Africa,2002,69.806,"73,312,559","$4,754.60",EGY
+Egypt,Africa,2007,71.33800000000002,"80,264,543",not available,EGY
+El Salvador,Americas,1992,66.798,"5,274,649","$4,444.23",SLV
+El Salvador,Americas,1997,69.535,"5,783,439","$5,154.83",SLV
+El Salvador,Americas,2002,70.734,"6,353,681","$5,351.57",SLV
+ El Salvador,Americas,2007,71.878,"6,939,688","$5,728.35",SLV
+Equatorial Guinea,Africa,1992,47.545,"387,838",not available,GNQ
+Equatorial Guinea,Africa,1997,48.245,"439,971","$2,814.48",GNQ
+Equatorial Guinea,Africa,2002,49.348,"495,627","$7,703.50",GNQ
+Equatorial Guinea,Africa,2007,51.57899999999999,"551,201","$12,154.09",GNQ
+Eritrea,africa,1992,49.99100000000001,"3,668,440",$582.86,ERI
+Eritrea,Africa,1997,53.378,unknown,$913.47,ERI
+Eritrea,Africa,2002,55.24,"4,414,865",$765.35,ERI
+Eritrea,Africa,2007,58.04,"4,906,585",$641.37,ERI
+Ethiopia,Africa,1992,48.091,"52,088,559",$421.35,ETH
+Ethiopia,Africa,1997,49.402,"59,861,301",$515.89,ETH
+Ethiopia,Africa,2002,50.725,"67,946,797",$530.05,ETH
+Ethiopia,Africa,2007,52.947,"76,511,887",not available,ETH
+Finland,Europe ,1992,75.7,"5,041,039","$20,647.16",FIN
+Finland,Europe,1997,77.13,"5,134,406","$23,723.95",FIN
+Finland,Europe,2002,78.37,"5,193,039","$28,204.59",FIN
+Finland,Europe,2007,79.313,"5,238,460","$33,207.08",FIN
+France,Europe,1992,77.46,"57,374,179","$24,703.80",FRA
+France ,Europe,1997,78.64,"58,623,428","$25,889.78",FRA
+France,Europe,2002,79.59,"59,925,035","$28,926.03",FRA
+France,Europe,2007,80.657,"61,083,916","$30,470.02",FRA
+Gabon,Africa,1992,61.36600000000001,unknown,"$13,522.16",GAB
+Gabon,Africa,1997,60.46100000000001,"1,126,189","$14,722.84",GAB
+Gabon,Africa,2002,56.761,"1,299,304","$12,521.71",GAB
+Gabon,Africa,2007,56.735,"1,454,867","$13,206.48",GAB
+Gambia,Africa,1992,52.644,"1,025,384",$665.62,GMB
+Gambia,Africa,1997,55.861,"1,235,767",$653.73,GMB
+Gambia,Africa,2002,58.041,"1,457,766",$660.59,GMB
+Gambia,Africa,2007,59.448,"1,688,359",$752.75,GMB
+GERMANY,Europe,1992,76.07,"80,597,764","$26,505.30",DEU
+Germany,Europe,1997,77.34,"82,011,073","$27,788.88",DEU
+Germany,Europe,2002,78.67,"82,350,671","$30,035.80",DEU
+Germany,Europe,2007,79.406,"82,400,996","$32,170.37",DEU
+Ghana,Africa,1992,57.50100000000001,"16,278,738",$925.06,GHA
+Ghana,Africa,1997,58.556,"18,418,288","$1,005.25",GHA
+Ghana,Africa,2002,58.453,"20,550,751","$1,111.98",GHA
+Ghana,Africa,2007,60.022,"22,873,338","$1,327.61",GHA
+Greece,Europe,1992,77.03,"10,325,429","$17,541.50",GRC
+Greece,Europe,1997,77.869,"10,502,372","$18,747.70",GRC
+Greece,Europe,2002,78.256,"10,603,863","$22,514.25",GRC
+Greece,Europe,2007,79.483,"10,706,290","$27,538.41",GRC
+Guatemala,Americas,1992,63.37300000000001,"8,486,949","$4,439.45",GTM
+Guatemala,Americas,1997,66.322,"9,803,875","$4,684.31",GTM
+Guatemala,Americas,2002,68.97800000000001,"11,178,650","$4,858.35",GTM
+Guatemala,Americas,2007,70.259,"12,572,928","$5,186.05",GTM
+Guinea,Africa,1992,48.576,"6,990,574",$794.35,GIN
+Guinea,africa,1997,51.455,"8,048,834",$869.45,GIN
+Guinea,Africa,2002,53.676,"8,807,818",$945.58,GIN
+Guinea,Africa,2007,56.007,"9,947,814",$942.65,GIN
+Guinea-Bissau,Africa,1992,43.26600000000001,"1,050,938",$745.54,GNB
+Guinea-Bissau,Africa,1997,44.87300000000001,"1,193,708",$796.66,GNB
+Guinea-Bissau,Africa,2002,45.504,"1,332,459",$575.70,GNB
+Guinea-Bissau,Africa,2007,46.38800000000001,"1,472,041",$579.23,GNB
+ Haiti,Americas,1992,55.089,"6,326,682","$1,456.31",HTI
+Haiti,Americas,1997,56.67100000000001,"6,913,545","$1,341.73",HTI
+Haiti,Americas,2002,58.137,"7,607,651","$1,270.36",HTI
+Haiti,Americas ,2007,60.916,"8,502,814","$1,201.64",HTI
+Honduras,Americas,1992,66.399,"5,077,347","$3,081.69",HND
+Honduras,Americas,1997,67.65899999999999,"5,867,957","$3,160.45",HND
+Honduras,Americas,2002,68.565,"6,677,328","$3,099.73",HND
+Honduras,Americas,2007,70.19800000000001,"7,483,763","$3,548.33",HND
+"Hong Kong, China",Asia,1992,77.601,"5,829,696","$24,757.60",HKG
+"Hong Kong, China",Asia,1997,80.0,"6,495,918","$28,377.63",HKG
+"Hong Kong, China",Asia,2002,81.495,"6,762,476","$30,209.02",HKG
+"Hong Kong, China",Asia,2007,82.208,"6,980,412","$39,724.98",HKG
+Hungary,Europe,1992,69.17,"10,348,684","$10,535.63",HUN
+Hungary,Europe,1997,71.04,"10,244,684","$11,712.78",HUN
+Hungary,Europe,2002,72.59,"10,083,313","$14,843.94",HUN
+Hungary,Europe,2007,73.33800000000002,"9,956,108","$18,008.94",HUN
+Iceland,Europe,1992,78.77,"259,012","$25,144.39",ISL
+Iceland,Europe,1997,78.95,"271,192","$28,061.10",ISL
+Iceland,Europe,2002,80.5,"288,030","$31,163.20",ISL
+Iceland,Europe,2007,81.757,"301,931","$36,180.79",ISL
+India,Asia,1992,60.223,"872,000,000","$1,164.41",IND
+India,Asia,1997,61.765,"959,000,000","$1,458.82",IND
+India,Asia,2002,62.879,"1,034,172,547","$1,746.77",IND
+INDIA,Asia,2007,64.69800000000001,"1,110,396,331","$2,452.21",IND
+Indonesia ,Asia,1992,62.681,"184,816,000","$2,383.14",IDN
+Indonesia,Asia,1997,66.041,"199,278,000","$3,119.34",IDN
+Indonesia,Asia,2002,68.58800000000001,"211,060,000","$2,873.91",IDN
+Indonesia,Asia,2007,70.65,"223,547,000","$3,540.65",IDN
+Iran,Asia,1992,65.742,"60,397,973","$7,235.65",IRN
+Iran,Asia,1997,68.042,"63,327,987","$8,263.59",IRN
+Iran,Asia,2002,69.45100000000001,"66,907,826","$9,240.76",IRN
+Iran,Asia,2007,70.964,"69,453,570","$11,605.71",IRN
+Iraq,Asia,1992,59.46100000000001,"17,861,905","$3,745.64",IRQ
+Iraq,Asia,1997,58.81100000000001,"20,775,703","$3,076.24",IRQ
+Iraq,asia,2002,57.04600000000001,"24,001,816","$4,390.72",IRQ
+Iraq,Asia,2007,59.545,unknown,"$4,471.06",IRQ
+Ireland,Europe,1992,75.467,"3,557,761","$17,558.82",IRL
+Ireland,Europe,1997,76.122,"3,667,233","$24,521.95",IRL
+Ireland,Europe,2002,77.783,"3,879,155","$34,077.05",IRL
+Ireland,Europe,2007,78.885,"4,109,086","$40,676.00",IRL
+Israel,Asia,1992,76.93,"4,936,550","$18,051.52",ISR
+Israel,Asia,1997,78.26899999999998,"5,531,387","$20,896.61",ISR
+Israel,Asia,2002,79.696,"6,029,529","$21,905.60",ISR
+Israel,Asia,2007,80.745,"6,426,679","$25,523.28",ISR
+Italy,Europe,1992,77.44,"56,840,847",not available,ITA
+Italy,Europe,1997,78.82,"57,479,469","$24,675.02",ITA
+Italy,Europe ,2002,80.24,"57,926,999","$27,968.10",ITA
+Italy,Europe,2007,80.546,"58,147,733","$28,569.72",ITA
+Jamaica,Americas,1992,71.766,"2,378,618","$7,404.92",JAM
+Jamaica,Americas,1997,72.262,"2,531,311","$7,121.92",JAM
+Jamaica,Americas,2002,72.047,"2,664,659","$6,994.77",JAM
+Jamaica,Americas,2007,72.567,"2,780,132","$7,320.88",JAM
+Japan,Asia,1992,79.36,"124,329,269","$26,824.90",JPN
+ Japan,Asia,1997,80.69,"125,956,499","$28,816.58",JPN
+Japan,Asia,2002,,"127,065,841","$28,604.59",JPN
+Japan,Asia,2007,82.603,"127,467,972","$31,656.07",JPN
+Jordan,Asia,1992,68.015,"3,867,409","$3,431.59",JOR
+Jordan,Asia,1997,69.77199999999999,"4,526,235","$3,645.38",JOR
+Jordan,Asia,2002,71.263,"5,307,470","$3,844.92",JOR
+Jordan,Asia,2007,72.535,"6,053,193","$4,519.46",JOR
+Kenya,Africa,1992,59.285,"25,020,539","$1,341.92",KEN
+Kenya,Africa,1997,54.407,"28,263,827","$1,360.49",KEN
+Kenya,Africa,2002,50.992,"31,386,842","$1,287.51",KEN
+Kenya,Africa,2007,54.11,"35,610,177","$1,463.25",KEN
+"Korea, Dem. Rep.",Asia,1992,69.97800000000001,"20,711,375","$3,726.06",KOR
+"Korea, Dem. Rep.",Asia,1997,67.727,"21,585,105","$1,690.76",KOR
+"Korea, Dem. Rep.",Asia,2002,66.66199999999999,"22,215,365","$1,646.76",KOR
+"Korea, Dem. Rep.",Asia,2007,67.297,"23,301,725","$1,593.07",KOR
+Korea Rep.,Asia,1992,72.244,"43,805,450","$12,104.28",KOR
+Korea Rep.,Asia,1997,74.64699999999998,"46,173,816","$15,993.53",KOR
+Korea Rep.,Asia,2002,77.045,"47,969,150","$19,233.99",KOR
+Korea Rep.,Asia,2007,78.623,"49,044,790","$23,348.14",KOR
+Kuwait,Asia,1992,75.19,"1,418,095","$34,932.92",KWT
+Kuwait,Asia,1997,76.156,"1,765,345","$40,300.62",KWT
+Kuwait,Asia,2002,76.904,"2,111,561","$35,110.11",KWT
+Kuwait,asia,2007,77.58800000000002,"2,505,559","$47,306.99",KWT
+Lebanon,Asia,1992,69.292,"3,219,994","$6,890.81",LBN
+Lebanon,Asia,1997,70.265,"3,430,388","$8,754.96",LBN
+Lebanon,Asia,2002,71.028,"3,677,780","$9,313.94",LBN
+Lebanon,Asia,2007,71.993,"3,921,278",not available,LBN
+Lesotho,Africa,1992,59.685,"1,803,195",$977.49,LSO
+Lesotho,Africa,1997,,"1,982,823","$1,186.15",LSO
+Lesotho,Africa,2002,44.593,"2,046,772","$1,275.18",LSO
+Lesotho ,Africa,2007,42.592,"2,012,649","$1,569.33",LSO
+Liberia,Africa,1992,40.802,"1,912,974",$636.62,LBR
+Liberia,Africa,1997,42.221,"2,200,725",$609.17,LBR
+Liberia,Africa,2002,43.753,"2,814,651",$531.48,LBR
+Liberia,Africa,2007,45.678,"3,193,942",$414.51,LBR
+Libya,Africa,1992,68.755,"4,364,501","$9,640.14",LBY
+Libya,Africa ,1997,71.555,"4,759,670","$9,467.45",LBY
+Libya,Africa,2002,72.737,"5,368,585","$9,534.68",LBY
+Libya,Africa,2007,73.952,"6,036,914","$12,057.50",LBY
+Madagascar,Africa,1992,52.214,"12,210,395","$1,040.68",MDG
+Madagascar,Africa,1997,54.978,"14,165,114",$986.30,MDG
+Madagascar,Africa,2002,,"16,473,477",not available,MDG
+Madagascar,Africa,2007,59.44300000000001,"19,167,654","$1,044.77",MDG
+Malawi,Africa,1992,49.42,"10,014,249",$563.20,MWI
+Malawi,Africa,1997,47.495,"10,419,991",$692.28,MWI
+Malawi,Africa,2002,45.00899999999999,"11,824,495",$665.42,MWI
+Malawi,Africa,2007,48.303,"13,327,079",$759.35,MWI
+Malaysia,Asia,1992,70.693,"18,319,502","$7,277.91",MYS
+Malaysia,Asia,1997,71.938,"20,476,091","$10,132.91",MYS
+Malaysia,Asia,2002,73.044,"22,662,365","$10,206.98",MYS
+Malaysia,Asia,2007,74.241,"24,821,286","$12,451.66",MYS
+Mali,Africa,1992,48.38800000000001,"8,416,215",$739.01,MLI
+Mali,Africa,1997,49.903,"9,384,984",$790.26,MLI
+ Mali,Africa,2002,51.81800000000001,"10,580,176",$951.41,MLI
+Mali,Africa,2007,54.467,"12,031,795","$1,042.58",MLI
+Mauritania,Africa,1992,58.333,"2,119,465","$1,361.37",MRT
+Mauritania,Africa,1997,60.43,"2,444,741","$1,483.14",MRT
+Mauritania,Africa,2002,62.247,"2,828,858","$1,579.02",MRT
+Mauritania,Africa,2007,64.164,"3,270,065","$1,803.15",MRT
+Mauritius,Africa,1992,69.745,"1,096,202","$6,058.25",MUS
+Mauritius,Africa,1997,70.736,"1,149,818","$7,425.71",MUS
+Mauritius,Africa,2002,71.954,"1,200,206","$9,021.82",MUS
+Mauritius,Africa,2007,72.801,"1,250,882","$10,956.99",MUS
+Mexico,americas,1992,71.455,"88,111,030","$9,472.38",MEX
+MEXICO,Americas,1997,73.67,"95,895,146","$9,767.30",MEX
+Mexico,Americas,2002,74.902,"102,479,927","$10,742.44",MEX
+Mexico,Americas,2007,76.195,"108,700,891","$11,977.57",MEX
+Mongolia,Asia,1992,61.271,"2,312,802","$1,785.40",MNG
+Mongolia,Asia,1997,63.625,"2,494,803","$1,902.25",MNG
+Mongolia,Asia,2002,65.033,"2,674,234","$2,140.74",MNG
+Mongolia,Asia,2007,66.803,"2,874,127","$3,095.77",MNG
+Montenegro,Europe,1992,75.435,"621,621","$7,003.34",MNE
+Montenegro,Europe,1997,75.445,"692,651","$6,465.61",MNE
+Montenegro,Europe,2002,,"720,230","$6,557.19",MNE
+Montenegro,Europe,2007,74.543,"684,736","$9,253.90",MNE
+Morocco,Africa,1992,65.393,"25,798,239",not available,MAR
+Morocco,Africa,1997,67.66,"28,529,501","$2,982.10",MAR
+Morocco,Africa,2002,69.615,"31,167,783","$3,258.50",MAR
+Morocco,Africa,2007,71.164,"33,757,175","$3,820.18",MAR
+Mozambique,Africa ,1992,44.284,"13,160,731",$410.90,MOZ
+Mozambique,Africa,1997,46.344,"16,603,334",$472.35,MOZ
+Mozambique,Africa,2002,44.026,"18,473,780",$633.62,MOZ
+Mozambique,Africa,2007,42.082,"19,951,656",$823.69,MOZ
+Myanmar,Asia,1992,59.32,"40,546,538",$347.00,MMR
+Myanmar,Asia,1997,60.328,"43,247,867",$415.00,MMR
+Myanmar,Asia,2002,59.908,"45,598,081",$611.00,MMR
+Myanmar,Asia,2007,62.069,"47,761,980",$944.00,MMR
+Namibia,Africa,1992,61.999,"1,554,253","$3,804.54",NAM
+Namibia,Africa,1997,58.909,"1,774,766","$3,899.52",NAM
+Namibia ,Africa,2002,,"1,972,153","$4,072.32",NAM
+Namibia,Africa,2007,52.90600000000001,"2,055,080","$4,811.06",NAM
+Nepal,Asia,1992,55.727,"20,326,209",$897.74,NPL
+Nepal,Asia,1997,59.426,"23,001,113","$1,010.89",NPL
+Nepal,Asia,2002,61.34,"25,873,917","$1,057.21",NPL
+Nepal,Asia,2007,63.785,"28,901,790","$1,091.36",NPL
+Netherlands,Europe,1992,77.42,unknown,"$26,790.95",NLD
+Netherlands,Europe,1997,78.03,"15,604,464","$30,246.13",NLD
+Netherlands,Europe,2002,78.53,"16,122,830","$33,724.76",NLD
+Netherlands,Europe,2007,79.762,"16,570,613","$36,797.93",NLD
+New Zealand,Oceania,1992,76.33,"3,437,674","$18,363.32",NZL
+New Zealand,Oceania,1997,77.55,"3,676,187","$21,050.41",NZL
+New Zealand,Oceania,2002,79.11,"3,908,037","$23,189.80",NZL
+New Zealand,Oceania,2007,80.204,"4,115,771","$25,185.01",NZL
+Nicaragua,Americas,1992,65.843,"4,017,939","$2,170.15",NIC
+Nicaragua,americas,1997,68.426,"4,609,572","$2,253.02",NIC
+Nicaragua,Americas,2002,70.836,"5,146,848","$2,474.55",NIC
+ Nicaragua,Americas,2007,72.899,"5,675,356","$2,749.32",NIC
+Niger,Africa,1992,47.39100000000001,"8,392,818",$581.18,NER
+Niger,Africa,1997,51.313,"9,666,252",$580.31,NER
+Niger,Africa,2002,54.496,"11,140,655",$601.07,NER
+Niger,Africa,2007,56.867,"12,894,865",$619.68,NER
+NIGERIA,Africa,1992,47.472,"93,364,244","$1,619.85",NGA
+Nigeria,Africa,1997,47.464,"106,207,839","$1,624.94",NGA
+Nigeria,Africa,2002,46.608,"119,901,274","$1,615.29",NGA
+Nigeria,Africa,2007,46.859,"135,031,164","$2,013.98",NGA
+Norway,Europe,1992,77.32,"4,286,357","$33,965.66",NOR
+Norway,Europe,1997,78.32,"4,405,672","$41,283.16",NOR
+Norway,Europe,2002,79.05,"4,535,591","$44,683.98",NOR
+Norway,Europe,2007,80.196,"4,627,926","$49,357.19",NOR
+Oman,Asia,1992,71.197,"1,915,208","$18,616.71",OMN
+Oman,Asia,1997,72.499,"2,283,635","$19,702.06",OMN
+Oman,Asia,2002,74.193,"2,713,462","$19,774.84",OMN
+Oman,Asia ,2007,75.64,"3,204,897","$22,316.19",OMN
+Pakistan,Asia,1992,60.838,"120,065,004","$1,971.83",PAK
+Pakistan,Asia,1997,61.81800000000001,"135,564,834","$2,049.35",PAK
+Pakistan,Asia,2002,63.61,"153,403,524","$2,092.71",PAK
+Pakistan,Asia,2007,65.483,"169,270,617","$2,605.95",PAK
+Panama,Americas,1992,72.462,"2,484,997","$6,618.74",PAN
+Panama,Americas,1997,73.738,"2,734,531","$7,113.69",PAN
+Panama,Americas,2002,74.712,"2,990,875","$7,356.03",PAN
+Panama,Americas,2007,75.53699999999998,"3,242,173","$9,809.19",PAN
+Paraguay,Americas,1992,68.225,"4,483,945","$4,196.41",PRY
+Paraguay,Americas,1997,69.4,"5,154,123","$4,247.40",PRY
+Paraguay,Americas,2002,70.755,"5,884,491","$3,783.67",PRY
+Paraguay,Americas,2007,71.752,"6,667,147","$4,172.84",PRY
+Peru,Americas,1992,66.458,"22,430,449","$4,446.38",PER
+Peru,Americas,1997,68.38600000000001,"24,748,122","$5,838.35",PER
+Peru,Americas,2002,69.906,"26,769,436","$5,909.02",PER
+Peru,Americas,2007,71.421,"28,674,757","$7,408.91",PER
+Philippines,Asia,1992,66.458,"67,185,766","$2,279.32",PHL
+Philippines,Asia,1997,68.564,"75,012,988","$2,536.53",PHL
+Philippines,Asia,2002,70.303,"82,995,088","$2,650.92",PHL
+Philippines,Asia,2007,71.688,"91,077,287","$3,190.48",PHL
+Poland,Europe,1992,70.99,"38,370,697","$7,738.88",POL
+Poland,Europe,1997,72.75,"38,654,957","$10,159.58",POL
+Poland,europe,2002,74.67,"38,625,976","$12,002.24",POL
+Poland,Europe,2007,75.563,"38,518,241","$15,389.92",POL
+Portugal,Europe,1992,74.86,"9,927,680","$16,207.27",PRT
+Portugal ,Europe,1997,75.97,"10,156,415","$17,641.03",PRT
+Portugal,Europe,2002,77.29,"10,433,867","$19,970.91",PRT
+Portugal,Europe,2007,78.098,"10,642,836","$20,509.65",PRT
+Puerto Rico,Americas,1992,73.911,"3,585,176","$14,641.59",PRI
+Puerto Rico,Americas,1997,74.917,"3,759,430","$16,999.43",PRI
+Puerto Rico,Americas,2002,77.778,"3,859,606","$18,855.61",PRI
+Puerto Rico,Americas,2007,78.74600000000002,"3,942,491","$19,328.71",PRI
+Reunion,Africa,1992,73.615,"622,191","$6,101.26",REU
+Reunion,Africa,1997,74.77199999999998,"684,810","$6,071.94",REU
+Reunion,Africa,2002,75.744,"743,981","$6,316.17",REU
+REUNION,Africa,2007,76.442,"798,094","$7,670.12",REU
+ Romania,Europe,1992,69.36,"22,797,027","$6,598.41",ROU
+Romania,Europe,1997,69.72,"22,562,458","$7,346.55",ROU
+Romania,Europe,2002,71.322,"22,404,337","$7,885.36",ROU
+Romania,Europe,2007,72.476,"22,276,056","$10,808.48",ROU
+Rwanda,Africa,1992,23.599,"7,290,203",$737.07,RWA
+Rwanda,Africa,1997,36.087,"7,212,583",$589.94,RWA
+Rwanda,Africa ,2002,43.413,"7,852,401",$785.65,RWA
+Rwanda,Africa,2007,46.242,"8,860,588",$863.09,RWA
+Sao Tome and Principe,Africa,1992,62.742,"125,911","$1,428.78",STP
+Sao Tome and Principe,Africa,1997,63.306,"145,608","$1,339.08",STP
+Sao Tome and Principe,Africa,2002,64.337,"170,372","$1,353.09",STP
+Sao Tome and Principe,Africa,2007,65.528,"199,579","$1,598.44",STP
+Saudi Arabia,Asia,1992,68.768,"16,945,857","$24,841.62",SAU
+Saudi Arabia,Asia,1997,70.533,"21,229,759","$20,586.69",SAU
+Saudi Arabia,Asia,2002,71.626,"24,501,530","$19,014.54",SAU
+Saudi Arabia,Asia,2007,72.777,"27,601,038","$21,654.83",SAU
+Senegal,Africa,1992,58.19600000000001,"8,307,920","$1,367.90",SEN
+Senegal,Africa,1997,60.187,"9,535,314","$1,392.37",SEN
+Senegal,Africa,2002,61.6,"10,870,037","$1,519.64",SEN
+Senegal,Africa,2007,63.062,"12,267,493","$1,712.47",SEN
+Serbia,Europe,1992,71.65899999999998,"9,826,397","$9,325.07",SRB
+Serbia,Europe,1997,72.232,"10,336,594","$7,914.32",SRB
+Serbia,Europe,2002,73.21300000000002,unknown,"$7,236.08",SRB
+Serbia,Europe,2007,74.002,"10,150,265","$9,786.53",SRB
+Sierra Leone,Africa,1992,38.333,"4,260,884","$1,068.70",SLE
+Sierra Leone,Africa,1997,39.897,"4,578,212",$574.65,SLE
+Sierra Leone,Africa,2002,41.012,"5,359,092",$699.49,SLE
+Sierra Leone,africa,2007,42.56800000000001,"6,144,562",$862.54,SLE
+Singapore,Asia,1992,75.788,"3,235,865","$24,769.89",SGP
+Singapore,Asia,1997,77.158,"3,802,309","$33,519.48",SGP
+Singapore,Asia,2002,78.77,"4,197,776","$36,023.11",SGP
+Singapore,Asia,2007,79.972,"4,553,009","$47,143.18",SGP
+Slovakia,Europe,1992,71.38,"5,302,888","$9,498.47",SVK
+Slovakia,Europe,1997,72.71,"5,383,010","$12,126.23",SVK
+Slovakia,Europe,2002,73.8,"5,410,052","$13,638.78",SVK
+Slovakia,Europe,2007,74.663,"5,447,502","$18,678.31",SVK
+Slovenia,Europe,1992,73.64,"1,999,210","$14,214.72",SVN
+Slovenia,Europe,1997,75.13,"2,011,612","$17,161.11",SVN
+Slovenia,Europe,2002,76.66,"2,011,497","$20,660.02",SVN
+Slovenia,Europe,2007,77.926,"2,009,245","$25,768.26",SVN
+Somalia,Africa,1992,39.658,"6,099,799",$926.96,SOM
+Somalia,Africa,1997,43.795,"6,633,514",$930.60,SOM
+Somalia,Africa,2002,45.93600000000001,"7,753,310",$882.08,SOM
+Somalia,Africa,2007,48.159,"9,118,773",not available,SOM
+South Africa,Africa,1992,61.88800000000001,"39,964,159","$7,225.07",ZAF
+South Africa,Africa,1997,60.236,"42,835,005","$7,479.19",ZAF
+SOUTH AFRICA,Africa,2002,53.365,"44,433,622","$7,710.95",ZAF
+South Africa,Africa,2007,49.339,"43,997,828","$9,269.66",ZAF
+Spain ,Europe,1992,77.57,"39,549,438","$18,603.06",ESP
+Spain,Europe ,1997,78.77,"39,855,442","$20,445.30",ESP
+Spain,Europe,2002,79.78,"40,152,517","$24,835.47",ESP
+Spain,Europe,2007,80.941,"40,448,191","$28,821.06",ESP
+Sri Lanka,Asia,1992,70.37899999999998,"17,587,060","$2,153.74",LKA
+ Sri Lanka,Asia,1997,70.457,"18,698,655","$2,664.48",LKA
+Sri Lanka,Asia,2002,70.815,"19,576,783","$3,015.38",LKA
+Sri Lanka,Asia,2007,,unknown,"$3,970.10",LKA
+Sudan,Africa,1992,53.556,"28,227,588","$1,492.20",SDN
+Sudan,Africa,1997,55.37300000000001,"32,160,729","$1,632.21",SDN
+Sudan,Africa,2002,56.369,"37,090,298","$1,993.40",SDN
+Sudan,Africa,2007,58.556,"42,292,929","$2,602.39",SDN
+Swaziland,Africa,1992,58.474,"962,344","$3,553.02",SWZ
+Swaziland,Africa,1997,54.289,"1,054,486","$3,876.77",SWZ
+Swaziland,Africa,2002,43.869,"1,130,269","$4,128.12",SWZ
+Swaziland,Africa,2007,39.613,"1,133,066","$4,513.48",SWZ
+Sweden,Europe,1992,78.16,"8,718,867","$23,880.02",SWE
+Sweden,Europe,1997,79.39,"8,897,619","$25,266.59",SWE
+Sweden,Europe,2002,80.04,"8,954,175","$29,341.63",SWE
+Sweden,Europe,2007,80.884,"9,031,088","$33,859.75",SWE
+Switzerland,europe,1992,,"6,995,447","$31,871.53",CHE
+Switzerland,Europe,1997,79.37,"7,193,761","$32,135.32",CHE
+Switzerland,Europe,2002,80.62,"7,361,757","$34,480.96",CHE
+Switzerland,Europe,2007,81.70100000000002,"7,554,661","$37,506.42",CHE
+Syria,Asia,1992,69.249,"13,219,062","$3,340.54",SYR
+Syria,Asia,1997,71.527,"15,081,016","$4,014.24",SYR
+Syria,Asia,2002,73.053,"17,155,814","$4,090.93",SYR
+Syria,Asia,2007,74.143,"19,314,747","$4,184.55",SYR
+Taiwan,Asia,1992,74.26,"20,686,918","$15,215.66",TWN
+Taiwan,Asia,1997,75.25,"21,628,605","$20,206.82",TWN
+Taiwan,Asia,2002,76.99,"22,454,239","$23,235.42",TWN
+Taiwan,Asia,2007,78.4,"23,174,294","$28,718.28",TWN
+Tanzania,Africa,1992,50.44,"26,605,473",$825.68,TZA
+Tanzania,Africa,1997,48.466,"30,686,889",$789.19,TZA
+Tanzania,Africa,2002,49.651,"34,593,779",$899.07,TZA
+Tanzania,Africa,2007,52.517,"38,139,640","$1,107.48",TZA
+Thailand,Asia,1992,67.298,"56,667,095","$4,616.90",THA
+Thailand,Asia,1997,67.521,"60,216,677","$5,852.63",THA
+Thailand,Asia,2002,68.564,"62,806,748","$5,913.19",THA
+Thailand,Asia,2007,70.616,"65,068,149",not available,THA
+Togo,Africa,1992,58.06100000000001,"3,747,553","$1,034.30",TGO
+Togo,Africa,1997,58.39,"4,320,890",$982.29,TGO
+Togo,Africa,2002,57.56100000000001,"4,977,378",$886.22,TGO
+Togo,Africa,2007,58.42,"5,701,579",$882.97,TGO
+Trinidad and Tobago,Americas ,1992,69.862,unknown,"$7,370.99",TTO
+TRINIDAD AND TOBAGO,Americas,1997,69.465,"1,138,101","$8,792.57",TTO
+Trinidad and Tobago,Americas,2002,68.976,"1,101,832","$11,460.60",TTO
+Trinidad and Tobago,Americas,2007,69.819,"1,056,608","$18,008.51",TTO
+Tunisia,Africa,1992,70.001,"8,523,077","$4,332.72",TUN
+Tunisia,Africa,1997,71.973,"9,231,669","$4,876.80",TUN
+Tunisia,Africa,2002,73.042,"9,770,575","$5,722.90",TUN
+Tunisia,Africa,2007,73.923,"10,276,158","$7,092.92",TUN
+Turkey,Europe,1992,66.146,"58,179,144","$5,678.35",TUR
+Turkey,Europe,1997,68.835,"63,047,647","$6,601.43",TUR
+Turkey,Europe,2002,70.845,unknown,"$6,508.09",TUR
+Turkey,Europe,2007,71.777,"71,158,647","$8,458.28",TUR
+Uganda,Africa,1992,48.825,"18,252,190",not available,UGA
+Uganda,Africa,1997,44.578,"21,210,254",$816.56,UGA
+ Uganda,Africa,2002,47.813,"24,739,869",$927.72,UGA
+Uganda ,Africa,2007,51.542,"29,170,398","$1,056.38",UGA
+United Kingdom,Europe,1992,76.42,"57,866,349","$22,705.09",GBR
+United Kingdom,europe,1997,77.218,"58,808,266","$26,074.53",GBR
+United Kingdom,Europe,2002,78.471,"59,912,431","$29,479.00",GBR
+United Kingdom,Europe,2007,79.425,"60,776,238","$33,203.26",GBR
+ United States ,Americas,1992,76.09,"256,894,189","$32,003.93",USA
+ United States ,Americas,1997,76.81,"272,911,760","$35,767.43",USA
+ United States ,Americas,2002,77.31,"287,675,526","$39,097.10",USA
+ United States ,Americas,2007,78.242,"301,139,947","$42,951.65",USA
+Uruguay,Americas,1992,72.752,"3,149,262","$8,137.00",URY
+Uruguay,Americas,1997,74.223,"3,262,838","$9,230.24",URY
+Uruguay,Americas,2002,75.307,"3,363,085","$7,727.00",URY
+Uruguay,Americas,2007,76.384,"3,447,496","$10,611.46",URY
+Venezuela,Americas,1992,71.15,"20,265,563","$10,733.93",VEN
+Venezuela,Americas,1997,72.146,"22,374,398","$10,165.50",VEN
+Venezuela,Americas,2002,72.766,"24,287,670","$8,605.05",VEN
+Venezuela,Americas,2007,73.747,"26,084,662","$11,415.81",VEN
+Vietnam,Asia,1992,67.66199999999999,"69,940,728",$989.02,VNM
+Vietnam,Asia,1997,70.672,"76,048,996","$1,385.90",VNM
+Vietnam,Asia,2002,73.017,"80,908,147","$1,764.46",VNM
+Vietnam,Asia,2007,74.249,"85,262,356","$2,441.58",VNM
+West Bank and Gaza,Asia,1992,69.718,"2,104,779","$6,017.65",PSE
+West Bank and Gaza,Asia,1997,71.096,"2,826,046","$7,110.67",PSE
+West Bank and Gaza,Asia,2002,72.37,"3,389,578","$4,515.49",PSE
+West Bank and Gaza,Asia,2007,73.422,"4,018,332","$3,025.35",PSE
+"Yemen, Rep.",Asia,1992,55.599,"13,367,997","$1,879.50",YEM
+"Yemen, Rep.",Asia,1997,58.02,"15,826,497","$2,117.48",YEM
+"Yemen, Rep.",Asia,2002,60.308,"18,701,257","$2,234.82",YEM
+"Yemen, Rep.",Asia ,2007,62.698,"22,211,743","$2,280.77",YEM
+Zambia,Africa,1992,46.1,"8,381,163","$1,210.88",ZMB
+Zambia,Africa,1997,40.238,"9,417,789","$1,071.35",ZMB
+Zambia,Africa,2002,39.19300000000001,"10,595,811","$1,071.61",ZMB
+Zambia,Africa,2007,42.38399999999999,"11,746,035","$1,271.21",ZMB
+ZIMBABWE,Africa,1992,60.377,"10,704,340",$693.42,ZWE
+Zimbabwe,Africa,1997,46.809,"11,404,948",$792.45,ZWE
+Zimbabwe,Africa,2002,39.989,"11,926,563",$672.04,ZWE
+Zimbabwe,Africa,2007,43.487,"12,311,143",$469.71,ZWE
+Montenegro,Europe,2007,74.543,"684,736","$9,253.90",MNE
+Syria,Asia,2002,73.053,"17,155,814","$4,090.93",SYR
+Liberia,Africa,2007,45.678,"3,193,942",$414.51,LBR
+Jamaica,Americas,1997,72.262,"2,531,311","$7,121.92",JAM
+"Korea, Dem. Rep.",Asia,1992,69.97800000000001,"20,711,375","$3,726.06",KOR
+El Salvador,Americas,1997,69.535,"5,783,439","$5,154.83",SLV

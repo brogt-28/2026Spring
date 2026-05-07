@@ -1,0 +1,143 @@
+country_name_for_merge,iso_alpha,oecd_member,hemisphere,income_band_2007
+Afghanistan,AFG,False,Mixed,Lower
+Albania,ALB,False,Northern,Lower-Middle
+Algeria,DZA,False,Mixed,Upper-Middle
+Angola,AGO,False,Mixed,Lower-Middle
+Argentina,ARG,False,Western,Upper-Middle
+Australia,AUS,True,Southern,Higher
+Austria,AUT,True,Northern,Higher
+Bahrain,BHR,False,Mixed,Higher
+Bangladesh,BGD,False,Mixed,Lower
+Belgium,BEL,True,Northern,Higher
+Benin,BEN,False,Mixed,Lower
+Bolivia,BOL,False,Western,Lower-Middle
+Bosnia and Herzegovina,BIH,False,Northern,Upper-Middle
+Botswana,BWA,False,Mixed,Upper-Middle
+Brazil,BRA,False,Western,Upper-Middle
+Bulgaria,BGR,False,Northern,Upper-Middle
+Burkina Faso,BFA,False,Mixed,Lower
+Burundi,BDI,False,Mixed,Lower
+Cambodia,KHM,False,Mixed,Lower-Middle
+Cameroon,CMR,False,Mixed,Lower-Middle
+Canada,CAN,True,Western,Higher
+Central African Republic,CAF,False,Mixed,Lower
+Chad,TCD,False,Mixed,Lower-Middle
+Chile,CHL,True,Western,Upper-Middle
+China,CHN,False,Mixed,Lower-Middle
+Colombia,COL,True,Western,Upper-Middle
+Comoros,COM,False,Mixed,Lower
+"Congo, Dem. Rep.",COD,False,Mixed,Lower
+"Congo, Rep.",COG,False,Mixed,Lower-Middle
+Costa Rica,CRI,True,Western,Upper-Middle
+Cote d'Ivoire,CIV,False,Mixed,Lower
+Croatia,HRV,False,Northern,Upper-Middle
+Cuba,CUB,False,Western,Upper-Middle
+Czech Republic,CZE,True,Northern,Higher
+Denmark,DNK,True,Northern,Higher
+Djibouti,DJI,False,Mixed,Lower-Middle
+Dominican Republic,DOM,False,Western,Lower-Middle
+Ecuador,ECU,False,Western,Upper-Middle
+Egypt,EGY,False,Mixed,Lower-Middle
+El Salvador,SLV,False,Western,Lower-Middle
+Equatorial Guinea,GNQ,False,Mixed,Upper-Middle
+Eritrea,ERI,False,Mixed,Lower
+Ethiopia,ETH,False,Mixed,Lower
+Finland,FIN,True,Northern,Higher
+France,FRA,True,Northern,Higher
+Gabon,GAB,False,Mixed,Upper-Middle
+Gambia,GMB,False,Mixed,Lower
+Germany,DEU,True,Northern,Higher
+Ghana,GHA,False,Mixed,Lower
+Greece,GRC,True,Northern,Higher
+Guatemala,GTM,False,Western,Lower-Middle
+Guinea,GIN,False,Mixed,Lower
+Guinea-Bissau,GNB,False,Mixed,Lower
+Haiti,HTI,False,Western,Lower
+Honduras,HND,False,Western,Lower-Middle
+"Hong Kong, China",HKG,False,Mixed,Higher
+Hungary,HUN,True,Northern,Higher
+Iceland,ISL,True,Northern,Higher
+India,IND,False,Mixed,Lower-Middle
+Indonesia,IDN,False,Mixed,Lower-Middle
+Iran,IRN,False,Mixed,Upper-Middle
+Iraq,IRQ,False,Mixed,Lower-Middle
+Ireland,IRL,True,Northern,Higher
+Israel,ISR,True,Mixed,Higher
+Italy,ITA,True,Northern,Higher
+Jamaica,JAM,False,Western,Upper-Middle
+Japan,JPN,True,Mixed,Higher
+Jordan,JOR,False,Mixed,Lower-Middle
+Kenya,KEN,False,Mixed,Lower
+"Korea, Dem. Rep.",KOR,False,Mixed,Lower
+"Korea, Rep.",KOR,True,Mixed,Higher
+Kuwait,KWT,False,Mixed,Higher
+Lebanon,LBN,False,Mixed,Upper-Middle
+Lesotho,LSO,False,Mixed,Lower
+Liberia,LBR,False,Mixed,Lower
+Libya,LBY,False,Mixed,Upper-Middle
+Madagascar,MDG,False,Mixed,Lower
+Malawi,MWI,False,Mixed,Lower
+Malaysia,MYS,False,Mixed,Upper-Middle
+Mali,MLI,False,Mixed,Lower
+Mauritania,MRT,False,Mixed,Lower-Middle
+Mauritius,MUS,False,Mixed,Upper-Middle
+Mexico,MEX,True,Western,Upper-Middle
+Mongolia,MNG,False,Mixed,Lower-Middle
+Montenegro,MNE,False,Northern,Upper-Middle
+Morocco,MAR,False,Mixed,Lower-Middle
+Mozambique,MOZ,False,Mixed,Lower
+Myanmar,MMR,False,Mixed,Lower
+Namibia,NAM,False,Mixed,Lower-Middle
+Nepal,NPL,False,Mixed,Lower
+Netherlands,NLD,True,Northern,Higher
+New Zealand,NZL,True,Southern,Higher
+Nicaragua,NIC,False,Western,Lower-Middle
+Niger,NER,False,Mixed,Lower
+Nigeria,NGA,False,Mixed,Lower-Middle
+Norway,NOR,True,Northern,Higher
+Oman,OMN,False,Mixed,Higher
+Pakistan,PAK,False,Mixed,Lower-Middle
+Panama,PAN,False,Western,Upper-Middle
+Paraguay,PRY,False,Western,Lower-Middle
+Peru,PER,False,Western,Upper-Middle
+Philippines,PHL,False,Mixed,Lower-Middle
+Poland,POL,True,Northern,Upper-Middle
+Portugal,PRT,True,Northern,Higher
+Puerto Rico,PRI,False,Western,Higher
+Reunion,REU,False,Mixed,Upper-Middle
+Romania,ROU,False,Northern,Upper-Middle
+Rwanda,RWA,False,Mixed,Lower
+Sao Tome and Principe,STP,False,Mixed,Lower
+Saudi Arabia,SAU,False,Mixed,Higher
+Senegal,SEN,False,Mixed,Lower-Middle
+Serbia,SRB,False,Northern,Upper-Middle
+Sierra Leone,SLE,False,Mixed,Lower
+Singapore,SGP,False,Mixed,Higher
+Slovak Republic,SVK,True,Northern,Higher
+Slovenia,SVN,True,Northern,Higher
+Somalia,SOM,False,Mixed,Lower
+South Africa,ZAF,False,Mixed,Upper-Middle
+Spain,ESP,True,Northern,Higher
+Sri Lanka,LKA,False,Mixed,Lower-Middle
+Sudan,SDN,False,Mixed,Lower-Middle
+Swaziland,SWZ,False,Mixed,Lower-Middle
+Sweden,SWE,True,Northern,Higher
+Switzerland,CHE,True,Northern,Higher
+Syria,SYR,False,Mixed,Lower-Middle
+Taiwan,TWN,False,Mixed,Higher
+Tanzania,TZA,False,Mixed,Lower
+Thailand,THA,False,Mixed,Upper-Middle
+Togo,TGO,False,Mixed,Lower
+Trinidad and Tobago,TTO,False,Western,Upper-Middle
+Tunisia,TUN,False,Mixed,Upper-Middle
+Turkey,TUR,True,Northern,Upper-Middle
+Uganda,UGA,False,Mixed,Lower
+United Kingdom,GBR,True,Northern,Higher
+United States,USA,True,Western,Higher
+Uruguay,URY,False,Western,Upper-Middle
+Venezuela,VEN,False,Western,Upper-Middle
+Vietnam,VNM,False,Mixed,Lower-Middle
+West Bank and Gaza,PSE,False,Mixed,Lower-Middle
+"Yemen, Rep.",YEM,False,Mixed,Lower-Middle
+Zambia,ZMB,False,Mixed,Lower
+Zimbabwe,ZWE,False,Mixed,Lower
